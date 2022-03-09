@@ -1,0 +1,104 @@
+.main{
+    height: 1200px;
+    width: 850px;
+    border: 1px solid #248194;
+    margin-left: 150px;
+    display: flex;
+}
+.left {
+    height: 1200px;
+    width: 250px;
+    background-color:#74BDCB;
+    text-align: center;
+}
+.right {
+    
+    height: 1200px;
+    width: 600px;
+    background-color:#E7F2F8;
+    padding-right: 0.5px;
+}
+.img {
+    margin-top: 30px;
+    /* margin-left: 40px; */
+}
+img {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    background-repeat: no-repeat;
+}
+.name{
+    color: #051367;
+}
+.social-links a i{
+    margin: 10px 8px 0 8px;
+}
+.contact{
+    margin-left: 2px;
+    margin-top: 20px;
+    color: #051367;
+}
+.contact table tr{
+    height: 40px;
+}
+.education {
+    margin-left: 20px;
+    height: 120px;
+    
+}
+.education table{
+    width: 550px;
+}
+.education h2{
+    margin-bottom: 10px;
+}
+.border{
+    border-bottom-style: dotted;
+    border-bottom-width: 80px;
+    border-width: 7px;
+    width: 70px;
+    margin-left: 270px;
+    margin-top: 07px;
+    border-color: #33a7be;
+    height: 2px;
+}
+.experience table{
+    width: 550px;
+}
+.experience{
+    margin-left: 20px;
+    height: 120px;
+}
+.experience h2{
+    margin-bottom: 10px;
+}
+.projects{
+    margin-left: 20px;
+    height: 120px;
+    margin-top: 20PX;
+}
+.projects h2{
+    margin-bottom: 1px;
+}
+.projects table{
+    width: 550px;
+}
+.skills{
+    margin-left: 20px;
+}
+.skills h2{
+    margin-bottom: 10px;
+}
+.skills h3{
+    margin-top: 2px;
+}
+.skills ul{
+    margin-left: 0px;
+}
+.declaration {
+    margin-left: 20px;
+}
+.declaration h2{
+    margin-bottom: 10px;
+}
